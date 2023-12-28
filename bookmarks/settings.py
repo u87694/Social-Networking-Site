@@ -16,7 +16,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ["mysite.com", "localhost", "127.0.0.1"]
 ALLOWED_HOSTS = ['mysite.com', 'social-networking-site-wj6u.onrender.com', 'localhost', '127.0.0.1']
-CSRF_TRUSTED_ORIGINS = ['https://social-networking-site-wj6u.onrender.com', 'mysite.com', 'localhost', '127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://social-networking-site-wj6u.onrender.com', 'https://mysite.com', 'https://localhost', 'https://127.0.0.1']
 # Application definition
 
 INSTALLED_APPS = [
