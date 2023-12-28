@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-jn5t@vlxsaoau99wfn_s3%k5&56z*321bq6h+8bsl=-5by@hlk
 DEBUG = True
 
 # ALLOWED_HOSTS = ["mysite.com", "localhost", "127.0.0.1"]
-ALLOWED_HOSTS = ['social-networking-site-wj6u.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['mysite.com', 'social-networking-site-wj6u.onrender.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
